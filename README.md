@@ -3,4 +3,7 @@ An under-development set of machine learning algorithms for java developers. The
 
 ###
 
-It only has K-Neighbours Classifier for now (lol even that ain't complete).
+It only has K-Neighbours Classifier (lol even that ain't complete) and Neural network (single neuron for now (I'm still learning nn)).
+
+name_of_classifier.java ---> Main file of that classifer.
+name_of_classifier_test.java ---> A file demonstating how to use it.
